@@ -24,6 +24,9 @@ https://www.amazon.com/UCTRONICS-Display-Touch-Screen-Raspberry/dp/B076M399XX/re
 Dispenser:
 Currently being modeled in Fusion 360. I'm integrating the sensor, screen and motor into the dispenser. After the model is complete I will 3D print it and we can wire up the components.
 
+Link to dispener: https://a360.co/2tntHAq
+You can download Fusion 360, create a new design and import the file. Let me know what you think. 
+
 
 Python:
 
