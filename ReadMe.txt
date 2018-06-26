@@ -18,7 +18,9 @@ Touch Screen:
 UCTRONICS 3.5 Inch HDMI TFT LCD Display with Touch Screen, Touch Pen, 3 Heat Sinks for Raspberry Pi 3 Model B+, 3 Mode B,Pi 2 Model B, Pi B+
 https://www.amazon.com/UCTRONICS-Display-Touch-Screen-Raspberry/dp/B076M399XX/ref=sr_1_3?s=electronics&ie=UTF8&qid=1529687261&sr=1-3&keywords=raspberry+pi+hdmi+touch+screen
 
-1 Generic stepper motor
+1 Generic stepper motor from
+Elegoo EL-KIT-008 Mega 2560 Project The Most Complete Ultimate Starter Kit w/TUTORIAL for Arduino UNO Nano
+https://www.amazon.com/gp/product/B01EWNUUUA/ref=oh_aui_detailpage_o00_s01?ie=UTF8&psc=1
 
 
 Dispenser:
